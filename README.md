@@ -1,2 +1,2 @@
 # test-technical-dumbways
-Test yang dilakukan sebagai syarat mengikuti bootcamp
+Test yang dilakukan sebagai syarat mengikuti bootcamp Dumbways
