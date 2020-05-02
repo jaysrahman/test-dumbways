@@ -1,5 +1,13 @@
-.navbar {
+.navbar,
+.menu-item:hover,
+.menu-item-active,
+.menu-item-active:hover {
 	background-color: #E62129;
+	font-weight: bold;
+}
+
+.menu-item {
+	background-color: #343A40;
 }
 
 #body-row {
@@ -64,4 +72,15 @@
 	display: inline;
 	text-align: right;
 	padding-left: 10px;
+}
+
+/* Soal 1 */
+.soal1 {
+	margin: auto;
+	background-color: #343A40;
+	width: 25%;
+	height: 5%;
+	overflow: scroll;
+	padding: 10px;
+	color: white;
 }
