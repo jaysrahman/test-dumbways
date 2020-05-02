@@ -1,4 +1,4 @@
-# test-technical-dumbways
+# test-dumbways
 Test yang dilakukan sebagai syarat mengikuti bootcamp Dumbways
 
 **Software yang Dipakai**  
