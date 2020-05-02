@@ -1,6 +1,6 @@
 <div class="row justify-content-center">
     <div class="col-4 text-center">
-        <h1>Soal 1</h1>
+        <h1><?= $judul; ?></h1>
         <p>Masukkan jumlah orang, untuk menghitung berapa kali berjabat tangan</p>
         <form action="" method="POST">
             <div class="row">

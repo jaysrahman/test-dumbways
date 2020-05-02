@@ -1,6 +1,6 @@
 <div class="row justify-content-center">
     <div class="col-4 text-center">
-        <h1>Soal 2</h1>
+        <h1><?= $judul; ?></h1>
         <p>array = [4,9,10,13,21]</p>
         <?php
         $orang = [4, 9, 10, 13, 21];
