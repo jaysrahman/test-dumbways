@@ -25,4 +25,14 @@ class Menu extends CI_Controller
 		$this->load->view('soal/1');
 		$this->load->view('templates/footer');
 	}
+
+	public function soal2()
+	{
+		$data['judul'] = 'Soal 2';
+		$data['menu'] = $this->db->get('menu')->result_array();
+
+		$this->load->view('templates/header', $data);
+		$this->load->view('soal/2');
+		$this->load->view('templates/footer');
+	}
 }
